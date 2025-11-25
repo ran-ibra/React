@@ -1,6 +1,6 @@
 <p align="center">
   <img src="ToDoApp//TodoApp.gif" alt="Demo" width="400" />
-</p> <br>
+</p> 
 <p align="center">
   <img src="e-commerce//e-commerce.gif" alt="Demo" width="400" />
 </p>
