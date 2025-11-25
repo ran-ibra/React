@@ -1,4 +1,4 @@
-#To-Do App
+# To-Do App
 
 A simple To-Do List application built with React. It allows users to add, delete, and mark tasks as completed through a clean, reusable component design.
 
@@ -24,7 +24,7 @@ Node.js and npm
 
 Setup Instructions
 
-Clone the repository: git clone https://github.com/username/todo-app.git
+Clone the repository: git clone https://github.com/ran-ibra/ToDoApp.git
 
 Navigate into the project directory: cd todo-app
 
@@ -34,7 +34,7 @@ Start the development server: npm start
 
 Open your browser at http://localhost:3000
 
-Usage
+# Usage
 
 Run the app with npm start.
 
