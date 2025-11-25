@@ -1,18 +1,45 @@
-# React + Vite
+#To-Do App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple To-Do List application built with React. It allows users to add, delete, and mark tasks as completed through a clean, reusable component design.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Add new tasks
 
-## React Compiler
+Delete existing tasks
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Mark tasks as complete/incomplete
 
-Note: This will impact Vite dev & build performances.
+Modular, reusable components for tasks and task list
 
-## Expanding the ESLint configuration
+Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React (with Hooks and state management)
+
+JavaScript (ES6+), HTML/CSS
+
+Bootstrap (for responsive styling)
+
+Node.js and npm
+
+Setup Instructions
+
+Clone the repository: git clone https://github.com/username/todo-app.git
+
+Navigate into the project directory: cd todo-app
+
+Install dependencies: npm install
+
+Start the development server: npm start
+
+Open your browser at http://localhost:3000
+
+Usage
+
+Run the app with npm start.
+
+Use the input field to add a new task; click the “Add” button to save it.
+
+Click on a task to toggle its completion status.
+
+Use the delete icon/button on each task to remove it from the list.
